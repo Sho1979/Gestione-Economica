@@ -1,0 +1,7 @@
+{
+    "come inserisco una spesa professionale?": "Per inserire una spesa professionale, vai nella tab 'Spese Professionali', seleziona il mese, l'anno, la categoria e l'importo lordo, poi premi 'Aggiungi Spesa'.",
+    "come viene calcolata l'irpef?": "L'IRPEF viene calcolata in base agli scaglioni: fino a 15.000€: 23%; 15.000-28.000€: 25%; 28.000-50.000€: 35%; oltre 50.000€: 43%. Sottraiamo poi ritenute, detrazioni e spese deducibili.",
+    "trucchi commercialista": "Ricordati di mantenere una contabilità ordinata, sfruttare tutte le detrazioni fiscali disponibili, e pianificare gli acconti per evitare sorprese. Considera sempre l'Enasarco e i contributi INPS nel calcolo finale.",
+    "come inserisco un incasso?": "Per inserire un incasso, vai nella tab 'Incassi Mensili', seleziona il mese, l'anno, inserisci la provvigione lorda e premi 'Aggiungi Incasso'. Il sistema calcolerà automaticamente IVA, Ritenuta ed Enasarco."
+  }
+  
