@@ -5,3 +5,5 @@ repo_mirror.git.bfg-report/
 repo_mirror.git/
 repo_nuovo.git/
 repo_pulito/
+__pycache__/
+*.py[cod]
